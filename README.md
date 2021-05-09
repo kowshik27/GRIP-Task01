@@ -7,3 +7,6 @@ predicting the percentage scored by students when number of hours studied by the
 ## Pre-requiste: 
 Basics of python and Machine Learning
 
+## Youtube Link For detailed Explanation:
+
+Youtube link:
