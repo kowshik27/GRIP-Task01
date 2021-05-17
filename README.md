@@ -1,12 +1,7 @@
-# GRIP-Task01
-Simple ML Prediction using Supervised Learning<br>
+# GRIP-Tasks
 
-## **Objective:**
-predicting the percentage scored by students when number of hours studied by the student is provided.
+<li>Simple ML Prediction using Supervised Machine Learning<br>
+<li>Prediction using Unsupervised ML
+<li>Prediction using Decision Tree Algorithm
+<li>Stock Market Prediction using Numerical and Textual Analysis
 
-## Pre-requiste: 
-Basics of python and Machine Learning
-
-## Youtube Link For detailed Explanation:
-
-Youtube link:
